@@ -1,0 +1,168 @@
+Time:0
+Waiting Queue:
+(4,4,11)
+(5,5,12)
+(6,3,1)
+(7,2,6)
+Queue 0:
+Queue 1:
+Time:1
+Waiting Queue:
+(4,4,11)
+(5,5,12)
+(6,3,1)
+(7,2,6)
+Queue 0:
+Queue 1:
+Time:2
+Waiting Queue:
+(4,4,11)
+(5,5,12)
+(6,3,1)
+Queue 0:
+(7,2,6)
+Queue 1:
+Time:3
+Waiting Queue:
+(4,4,11)
+(5,5,12)
+Queue 0:
+(6,3,1)
+Queue 1:
+(7,2,6)
+Time:4
+Waiting Queue:
+(5,5,12)
+Queue 0:
+(6,3,1)
+(4,4,11)
+Queue 1:
+(7,2,6)
+Time:5
+Waiting Queue:
+Queue 0:
+(7,2,6)
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:6
+Waiting Queue:
+Queue 0:
+(7,2,6)
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:7
+Waiting Queue:
+Queue 0:
+(7,2,6)
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:8
+Waiting Queue:
+Queue 0:
+(7,2,6)
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:9
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:10
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:11
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:12
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:13
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:14
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:15
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+(4,4,11)
+Time:16
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+Time:17
+Waiting Queue:
+Queue 0:
+(5,5,12)
+Queue 1:
+Time:18
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:19
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:20
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:21
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:22
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:23
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:24
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:25
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:26
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:27
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:28
+Waiting Queue:
+Queue 0:
+Queue 1:
+Time:29
+Waiting Queue:
+Queue 0:
+Queue 1:
